@@ -10,8 +10,7 @@ https://cloud.google.com/serverless
 
 airserver
 
-- **[入手 MacBook Air (Apple Silicon)](https://jysperm.me/2021/01/macbook-air-apple-silicon/)**    
-作者名叫精子，本篇写的是 
+
 
 - [Chaos Mesh 1.0 正式发布](https://mp.weixin.qq.com/s/j043O5-uRTf-xetsetHczQ)
 
@@ -24,8 +23,7 @@ airserver
 
 - grep 
 - 
-- **推荐博客** **[wd](https://wdicc.com)**    
-博主目前是一家航空类型公司的合伙人，负责技术和产品类，技术很全面，有些博文也很有趣～
+
 
 - opentracing
   - https://opentracing-contrib.github.io/opentracing-specification-zh/
