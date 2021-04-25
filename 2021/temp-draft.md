@@ -43,6 +43,7 @@ airserver
 - shell 规范
   - https://www.jianshu.com/p/161618366866
 
+- https://juejin.cn/post/6947841638118998029
 
 - **[dynamicland]**
   - https://www.jianshu.com/p/c7793b00f74e
